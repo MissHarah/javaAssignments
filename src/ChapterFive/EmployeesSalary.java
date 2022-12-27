@@ -1,4 +1,4 @@
-package chapterRename;
+package ChapterFive;
 
 public class EmployeesSalary {
     private int PayHourly;

@@ -8,6 +8,7 @@ public class TwelveDaysOfChristmas {
         while (input <= 12) {
 
             Scanner song =new Scanner(System.in);
+
         }
     }
 }

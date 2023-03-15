@@ -7,12 +7,11 @@ public class TwelveDaysOfChristmas {
 
 
 
-//;        int days = 1;
+//        int days = 1;
 //        while (days <= 12) {
         public static String getMessage(int days) {
             String message = "";
-            switch (days) {
-
+           switch (days) {
                 case 1:
                     message = """
                             A partridge in a pear tree

@@ -10,7 +10,6 @@ public class EmployeesSalaryMain {
         System.out.println("amount of hours");
         int workerHour= scanner.nextInt();
         clearPay.clearPay(workerHour);
-
         land();
     }
     public static void land(){

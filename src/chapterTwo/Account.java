@@ -6,6 +6,7 @@ public class Account {
 
     public Account() {
     }
+
 //    public Account() {
 //    }
 
@@ -30,6 +31,7 @@ public class Account {
     }
 
     public Account getName() {
+
         return null;
     }
 
